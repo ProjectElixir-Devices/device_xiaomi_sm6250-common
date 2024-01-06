@@ -21,6 +21,9 @@ persist.vendor.btstack.enable.swbpm=true
 persist.vendor.service.bdroid.soc.alwayson=true
 persist.vendor.qcom.bluetooth.a2dp_offload_cap=sbc-aptx-aptxtws-aptxhd-aac-ldac-aptxadaptive
 
+# Brightness Curve
+persist.sys.brightness.low.gamma=true
+
 # CNE
 persist.vendor.cne.feature=1
 
